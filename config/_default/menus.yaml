@@ -1,0 +1,212 @@
+leftnav:
+- identifier: 5089c393-52dc-3641-930e-0a0402373e96
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1eb2fd82-4dc0-2f22-bc85-743316b46947
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 36cc671a-c04c-270e-9cac-7a210efd6846
+  name: 'Unit I : THE ATOM'
+  pageRef: /pages/unit-i-the-atom/
+  weight: 30
+- identifier: 2093fa03-8f0b-9e63-c680-49a3ed4867fd
+  name: Lecture 1
+  pageRef: /pages/unit-i-the-atom/lecture-1
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 40
+- identifier: 5f132e2d-e0de-f588-3a91-12c82ff3e6ec
+  name: Lecture 2
+  pageRef: /pages/unit-i-the-atom/lecture-2
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 50
+- identifier: bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda
+  name: Lecture 3
+  pageRef: /pages/unit-i-the-atom/lecture-3
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 60
+- identifier: 6c42d420-7daa-f98f-42f3-cf4c8b25c652
+  name: Lecture 4
+  pageRef: /pages/unit-i-the-atom/lecture-4
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 70
+- identifier: 19bd276c-98fb-61bc-72af-22c0567e02a2
+  name: Lecture 5
+  pageRef: /pages/unit-i-the-atom/lecture-5
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 80
+- identifier: c88a7a36-f1d5-0d92-1f8c-175f64643ef4
+  name: Lecture 6
+  pageRef: /pages/unit-i-the-atom/lecture-6
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 90
+- identifier: 3cbec0b6-342c-45e2-19db-b316c53f0274
+  name: Lecture 7
+  pageRef: /pages/unit-i-the-atom/lecture-7
+  parent: 36cc671a-c04c-270e-9cac-7a210efd6846
+  weight: 100
+- identifier: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  name: 'Unit II: CHEMICAL BONDING & STRUCTURE'
+  pageRef: /pages/unit-ii-chemical-bonding-structure/
+  weight: 110
+- identifier: 3ea46bd0-50d7-7305-ee1a-67bd41bfde89
+  name: Lecture 8
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-8
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 120
+- identifier: 1defa0f1-c01b-a42e-057e-92fc7b1dec88
+  name: Lecture 9
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-9
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 130
+- identifier: 5f89679f-aa0f-ab38-a4ec-a4a166b9093f
+  name: Lecture 10
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-10
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 140
+- identifier: bbd6f3cb-d22b-a979-f3c5-3baa993e82b8
+  name: Lecture 11
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-11
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 150
+- identifier: 657cf625-0ea3-965b-7507-5d66ee3cb607
+  name: Lecture 12
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-12
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 160
+- identifier: 0e6db317-91e1-3ca8-0e85-5c92186dafb0
+  name: Lecture 13
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-13
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 170
+- identifier: bc4e02be-0613-a6fc-db1f-e751834b8e16
+  name: Lecture 14
+  pageRef: /pages/unit-ii-chemical-bonding-structure/lecture-14
+  parent: 89ed642b-2203-7e56-7593-c80ff35cb3f4
+  weight: 180
+- identifier: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  name: 'Unit III: THERMODYNAMICS & CHEMICAL EQUILIBRIUM'
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/
+  weight: 190
+- identifier: 09ecdc68-87c9-427d-73c0-edb2dab5283c
+  name: Lecture 15
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-15
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 200
+- identifier: 4161d4d2-b7e6-4498-f997-dfb3b69eca3c
+  name: Lecture 16
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-16
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 210
+- identifier: 74d44776-ec12-7476-168b-e0f074e4269b
+  name: Lecture 17
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-17
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 220
+- identifier: 76a566c6-d12e-b625-ae98-e279e812efbd
+  name: Lecture 18
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-18
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 230
+- identifier: 06795698-54cc-cdb3-a6c7-13fa72200306
+  name: Lecture 19
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-19
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 240
+- identifier: 080258a7-91c4-feab-68e5-2d45cb5fd92e
+  name: Lecture 20
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-20
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 250
+- identifier: 1f4d2b01-7442-13a2-4431-1f67ec24ecae
+  name: Lecture 21
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-21
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 260
+- identifier: 3967bba5-a7b0-073a-cd9a-c713fa2d59eb
+  name: Lecture 22
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-22
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 270
+- identifier: 4d30b63d-cd60-89ec-bffc-fd57c80b1766
+  name: Lecture 23
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-23
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 280
+- identifier: 92c821cc-7504-7b75-ec7b-50ab1516b1b6
+  name: Lecture 24
+  pageRef: /pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-24
+  parent: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
+  weight: 290
+- identifier: 89863654-3b84-26a3-a530-91cb22239ee9
+  name: 'Unit IV: TRANSITION METALS &  OXIDATION-REDUCTION REACTIONS'
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/
+  weight: 300
+- identifier: 3d31835d-06e0-f144-b71e-ae67819fa795
+  name: Lecture 25
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25
+  parent: 89863654-3b84-26a3-a530-91cb22239ee9
+  weight: 310
+- identifier: 177e7d2c-285d-8b80-4e37-ccce474cee78
+  name: Lecture 26
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26
+  parent: 89863654-3b84-26a3-a530-91cb22239ee9
+  weight: 320
+- identifier: c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3
+  name: Lecture 27
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27
+  parent: 89863654-3b84-26a3-a530-91cb22239ee9
+  weight: 330
+- identifier: 2b3c40e8-7019-4d11-c257-ec00379e8c86
+  name: Lecture 28
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28
+  parent: 89863654-3b84-26a3-a530-91cb22239ee9
+  weight: 340
+- identifier: ddc6ceab-1311-3008-9df1-db9d631a91d2
+  name: Lecture 29
+  pageRef: /pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29
+  parent: 89863654-3b84-26a3-a530-91cb22239ee9
+  weight: 350
+- identifier: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  name: 'Unit V: CHEMICAL KINETICS'
+  pageRef: /pages/unit-v-chemical-kinetics/
+  weight: 360
+- identifier: bd55059e-8b18-2feb-fb2b-c8aef5adde05
+  name: Lecture 30
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-30
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 370
+- identifier: c8f99e55-bd17-66c4-505f-19e5b26af70c
+  name: Lecture 31
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-31
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 380
+- identifier: 31564d9d-89a9-9686-7912-40b6ed37ef6f
+  name: Lecture 32
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-32
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 390
+- identifier: bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27
+  name: Lecture 33
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-33
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 400
+- identifier: 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3
+  name: Lecture 34
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-34
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 410
+- identifier: cfdef97d-2484-c331-1143-7c192f705162
+  name: Lecture 35
+  pageRef: /pages/unit-v-chemical-kinetics/lecture-35
+  parent: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
+  weight: 420
+- identifier: 542fb9a7-7582-8df9-e538-8d70d4c04741
+  name: Exams
+  pageRef: /pages/exams
+  weight: 430
+- identifier: 34312feb-9a21-9b7b-ae7f-eeb632542766
+  name: RESOURCE INDEX
+  pageRef: /pages/resource-index
+  weight: 440
